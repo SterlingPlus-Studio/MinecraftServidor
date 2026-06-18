@@ -1,23 +1,26 @@
 {
   "appName": "MinecraftServidor",
-  "description": "Mods, Maps y Texturas para Minecraft Bedrock",
+  "description": "Mods destacados, Maps y Texturas para Minecraft Bedrock",
   "rawBaseUrl": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/",
-  "bannerIntervalMs": 4500,
-  "banners": [
+  "featuredIntervalMs": 4500,
+  "featuredMods": [
     {
-      "title": "Bienvenido a MinecraftServidor",
-      "subtitle": "Contenido descargado desde GitHub RAW",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner1.png"
+      "title": "Mod Destacado 1",
+      "subtitle": "Complemento recomendado con descarga directa",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured1.png",
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.mcaddon"
     },
     {
-      "title": "Mods nuevos",
-      "subtitle": "Explora paquetes y complementos",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner2.png"
+      "title": "Mod Destacado 2",
+      "subtitle": "Otro mod importante para Minecraft Bedrock",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2.mcaddon"
     },
     {
-      "title": "Maps y Texturas",
-      "subtitle": "Todo organizado por secciones horizontales",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner3.png"
+      "title": "Mod Destacado 3",
+      "subtitle": "Contenido destacado con botón de descarga",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3.mcaddon"
     }
   ],
   "sections": [
