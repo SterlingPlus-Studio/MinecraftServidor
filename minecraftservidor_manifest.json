@@ -1,0 +1,58 @@
+{
+  "appName": "MinecraftServidor",
+  "description": "Mods, Maps y Texturas para Minecraft Bedrock",
+  "rawBaseUrl": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/",
+  "bannerIntervalMs": 4500,
+  "banners": [
+    {
+      "title": "Bienvenido a MinecraftServidor",
+      "subtitle": "Contenido descargado desde GitHub RAW",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner1.png"
+    },
+    {
+      "title": "Mods nuevos",
+      "subtitle": "Explora paquetes y complementos",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner2.png"
+    },
+    {
+      "title": "Maps y Texturas",
+      "subtitle": "Todo organizado por secciones horizontales",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner3.png"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Mods",
+      "items": [
+        {
+          "title": "Mod 1",
+          "description": "Describe aquí tu mod",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.png",
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.mcaddon"
+        }
+      ]
+    },
+    {
+      "name": "Maps",
+      "items": [
+        {
+          "title": "Mapa 1",
+          "description": "Describe aquí tu mapa",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld"
+        }
+      ]
+    },
+    {
+      "name": "Texturas",
+      "items": [
+        {
+          "title": "Textura 1",
+          "description": "Describe aquí tu textura",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack"
+        }
+      ]
+    }
+  ]
+}
