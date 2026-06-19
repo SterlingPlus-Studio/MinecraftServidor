@@ -5,7 +5,7 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
-      "title": "FURNICRAFT ~ Furniture",
+      "title": "FURNICRAFT",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/FURNICRAFT.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
       "fileBeh": "#",
