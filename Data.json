@@ -12,7 +12,7 @@
       "version": "1.0.1",
       "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ElytraRegi1.png"
       ],
       "compatibleVersion": "1.21.0"
     },
@@ -49,23 +49,9 @@
           "version": "1.0.1",
           "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
           "screenshots": [
-            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ElytraRegi1.png"
           ],
           "compatibleVersion": "1.21.0"
-        },
-        {
-    "title": "Armas reales 3D",
-    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Armas reales 3D.png",
-    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
-    "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Behaviour_Pack.mcpack",
-    "version": "1.0.0",
-    "compatibleVersion": "1.21.0",
-    "description": "ActualGuns 3D lideró el auge de los complementos de armas 3D con todas las funciones en Minecraft: Bedrock Edition. Con nueve armas de fuego, cada una con animaciones de alta calidad tanto en primera como en tercera persona, AG3D ha estado a la vanguardia, estableciendo un nuevo estándar para los complementos. Lanzado originalmente en septiembre de 2020, ahora estamos renovando AG3D. ¡Nuevas animaciones, efectos y mucho más!",
-    "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Armas reales 3D1.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Armas reales 3D2.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Armas reales 3D3.png"
-    ]
         }
       ]
     },
