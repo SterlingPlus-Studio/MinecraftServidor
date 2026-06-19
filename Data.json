@@ -42,6 +42,20 @@
       "name": "Mods",
       "items": [
         {
+    "title": "Dynamic Lightning",
+    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic Lightning.png",
+    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
+    "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
+    "version": "3.5.0",
+    "compatibleVersion": "1.21.0 a 26.0",
+    "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
+    "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
+    ]
+        },
+        {
     "title": "Armas reales 3D",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Armasreales3D.png",
     "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
