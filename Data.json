@@ -13,9 +13,9 @@
       "compatibleVersion": "1.21.0 a 26.0",
       "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
       "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/DynamicLightning1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/DynamicLightning2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/DynamicLightning3.png"
       ]
     },
     {
@@ -31,35 +31,6 @@
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
       ]
-    },
-    {
-      "title": "ElytraRegi",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-      "fileBeh": "#",
-      "version": "1.0.1",
-      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
-      ]
-    },
-    {
-      "title": "Mod Destacado 2",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
-      "screenshots": []
-    },
-    {
-      "title": "Mod Destacado 3",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
-      "fileRes": "#",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
-      "screenshots": []
     }
   ],
   "sections": [
