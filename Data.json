@@ -5,14 +5,16 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
-      "title": "ElytraRegi",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
+      "title": "FURNICRAFT ~ Furniture",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/FURNICRAFT ~ Furniture.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
       "fileBeh": "#",
       "version": "1.0.1",
       "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ElytraRegi1.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/FURNICRAFT1.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/FURNICRAFT2.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/FURNICRAFT3.png"
       ],
       "compatibleVersion": "1.21.0"
     },
@@ -50,9 +52,9 @@
     "compatibleVersion": "1.21.0 a 26.0",
     "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
     "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.gif",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.gif",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.gif"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png",
     ]
         },
         {
