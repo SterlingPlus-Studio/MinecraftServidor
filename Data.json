@@ -13,7 +13,8 @@
       "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
       "screenshots": [
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
-      ]
+      ],
+      "compatibleVersion": "1.21.0"
     },
     {
       "title": "Mod Destacado 2",
@@ -22,7 +23,8 @@
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
       "version": "1.0.0",
       "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
-      "screenshots": []
+      "screenshots": [],
+      "compatibleVersion": "1.21.0"
     },
     {
       "title": "Mod Destacado 3",
@@ -31,7 +33,8 @@
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
       "version": "1.0.0",
       "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
-      "screenshots": []
+      "screenshots": [],
+      "compatibleVersion": "1.21.0"
     }
   ],
   "sections": [
@@ -47,22 +50,9 @@
           "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
           "screenshots": [
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
-          ]
-        },
-        {
-    "title": "Expansion (200+ Foods)",
-    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Food Expansion (200+ Foods)",
-    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Food Expansion v3.6.1 [BP].mcpack",
-    "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Food Expansion v3.6.1 [RP].mcpack",
-    "version": "1.0.0",
-    "compatibleVersion": "1.20.x",
-    "description": "Este complemento introduce más de 150 nuevos alimentos, 9 nuevos arbustos de bayas, 23 nuevos cultivos, 18 nuevas plantas y múltiples nuevos objetos que sueltan los bloques y las criaturas para darle más variedad y propósito a tu mundo de supervivencia. Ya sea que estés horneando galletas, preparando sushi o quemando accidentalmente tu filete, cada receta ofrece una combinación única de efectos de restauración del hambre y saciedad. Algunos alimentos permiten comer rápido, otros proporcionan mayor saciedad y otros son simplemente alternativas divertidas a lo que ya existe en el juego. Es una forma sencilla y equilibrada de hacer que cultivar, cocinar y explorar sean más gratificantes.",
-    "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)1.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)2.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)3.png"
-    ]
-}
+          ],
+          "compatibleVersion": "1.21.0"
+        }
       ]
     },
     {
@@ -74,7 +64,8 @@
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld",
           "version": "1.0.0",
-          "screenshots": []
+          "screenshots": [],
+          "compatibleVersion": "1.21.0"
         }
       ]
     },
@@ -87,9 +78,11 @@
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack",
           "version": "1.0.0",
-          "screenshots": []
+          "screenshots": [],
+          "compatibleVersion": "1.21.0"
         }
       ]
     }
-  ]
+  ],
+  "defaultCompatibleVersion": "1.21.0"
 }
