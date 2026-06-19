@@ -30,8 +30,8 @@
         {
           "title": "Mod 1",
           "description": "Describe aquí tu mod",
-          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.mcaddon"
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon"
         }
       ]
     },
