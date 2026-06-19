@@ -5,18 +5,6 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
-      "title": "FURNICRAFT",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/FURNICRAFT.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-      "fileBeh": "#",
-      "version": "1.0.1",
-      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/FURNICRAFT1.png"
-      ],
-      "compatibleVersion": "1.21.0"
-    },
-    {
       "title": "Mod Destacado 2",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
