@@ -5,92 +5,105 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
-      "title": "ElytraRegi",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-      "fileBeh": "#",
-      "version": "1.0.1",
-      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
+      "title": "Dynamic Lightning",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
+      "version": "3.5.0",
+      "compatibleVersion": "1.21.0 a 26.0",
+      "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
       "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
-      ]
-    },
-    {
-      "title": "Mod Destacado 2",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
-      "screenshots": []
-    },
-    {
-      "title": "Mod Destacado 3",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
-      "fileRes": "#",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
-      "screenshots": []
-    }
-  ],
-  "sections": [
-    {
-      "name": "Mods",
-      "items": [
-      {
-  "appName": "EnderStore",
-  "description": "Mods destacados, Maps y Texturas para Minecraft Bedrock",
-  "rawBaseUrl": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/",
-  "featuredIntervalMs": 4500,
-  "featuredMods": [
-    {
-      "title": "ElytraRegi",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-      "fileBeh": "#",
-      "version": "1.0.1",
-      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
-      ]
-    },
-    {
-      "title": "Mod Destacado 2",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
-      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
-      "screenshots": []
-    },
-    {
-      "title": "Mod Destacado 3",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
-      "fileRes": "#",
-      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
-      "version": "1.0.0",
-      "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
-      "screenshots": []
-    }
-  ],
-  "sections": [
-    {
-      "name": "Mods",
-      "items": [
-        {
-    "title": "Dynamic Lightning",
-    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
-    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
-    "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
-    "version": "3.5.0",
-    "compatibleVersion": "1.21.0 a 26.0",
-    "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
-    "screenshots": [
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
-    ]
+      ]
+    },
+    {
+      "title": "Armas reales 3D",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Armasreales3D.png",
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Behaviour_Pack.mcpack",
+      "version": "1.14.0",
+      "compatibleVersion": "1.21.0",
+      "description": "ActualGuns 3D lideró el auge de los complementos de armas 3D con todas las funciones en Minecraft: Bedrock Edition. Con nueve armas de fuego, cada una con animaciones de alta calidad tanto en primera como en tercera persona, AG3D ha estado a la vanguardia, estableciendo un nuevo estándar para los complementos. Lanzado originalmente en septiembre de 2020, ahora estamos renovando AG3D. ¡Nuevas animaciones, efectos y mucho más!",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
+      ]
+    },
+    {
+      "title": "ElytraRegi",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+      "fileBeh": "#",
+      "version": "1.0.1",
+      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
+      ]
+    },
+    {
+      "title": "Mod Destacado 2",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
+      "version": "1.0.0",
+      "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
+      "screenshots": []
+    },
+    {
+      "title": "Mod Destacado 3",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
+      "fileRes": "#",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
+      "version": "1.0.0",
+      "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
+      "screenshots": []
+    }
+  ],
+  "sections": [
+    {
+      "name": "Mods",
+      "items": [
+        {
+          "title": "Dynamic Lightning",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
+          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
+          "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
+          "version": "3.5.0",
+          "compatibleVersion": "1.21.0 a 26.0",
+          "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
+          "screenshots": [
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
+          ]
+        },
+        {
+          "title": "Armas reales 3D",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Armasreales3D.png",
+          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
+          "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Behaviour_Pack.mcpack",
+          "version": "1.14.0",
+          "compatibleVersion": "1.21.0",
+          "description": "ActualGuns 3D lideró el auge de los complementos de armas 3D con todas las funciones en Minecraft: Bedrock Edition. Con nueve armas de fuego, cada una con animaciones de alta calidad tanto en primera como en tercera persona, AG3D ha estado a la vanguardia, estableciendo un nuevo estándar para los complementos. Lanzado originalmente en septiembre de 2020, ahora estamos renovando AG3D. ¡Nuevas animaciones, efectos y mucho más!",
+          "screenshots": [
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D1.png",
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
+          ]
+        },
+        {
+          "title": "ElytraRegi",
+          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
+          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+          "fileBeh": "#",
+          "version": "1.0.1",
+          "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
+          "screenshots": [
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
+          ]
         }
       ]
     },
@@ -120,35 +133,6 @@
         }
       ]
     }
-  ]
-}
-      ]
-    },
-    {
-      "name": "Maps",
-      "items": [
-        {
-          "title": "Mapa Aventura",
-          "description": "Un mapa lleno de desafíos increíbles. Describe aquí tu mapa con detalle.",
-          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld",
-          "version": "1.0.0",
-          "screenshots": []
-        }
-      ]
-    },
-    {
-      "name": "Texturas",
-      "items": [
-        {
-          "title": "Textura 1",
-          "description": "Cambia por completo los gráficos del juego con esta textura en alta resolución.",
-          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack",
-          "version": "1.0.0",
-          "screenshots": []
-        }
-      ]
-    }
-  ]
+  ],
+  "refreshIntervalMs": 1200
 }
