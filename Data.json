@@ -38,9 +38,9 @@
     "compatibleVersion": "1.21.0 a 26.0",
     "description": "En este complemento, la luz dinámica no se limita al aire, sino que también se puede usar bajo el agua gracias a la nueva antorcha marina y otros tipos de objetos emisores de luz, como bloques emisores de luz, faroles, etc.",
     "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning1.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning2.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
     ]
         },
         {
@@ -52,9 +52,9 @@
     "compatibleVersion": "1.21.0",
     "description": "ActualGuns 3D lideró el auge de los complementos de armas 3D con todas las funciones en Minecraft: Bedrock Edition. Con nueve armas de fuego, cada una con animaciones de alta calidad tanto en primera como en tercera persona, AG3D ha estado a la vanguardia, estableciendo un nuevo estándar para los complementos. Lanzado originalmente en septiembre de 2020, ahora estamos renovando AG3D. ¡Nuevas animaciones, efectos y mucho más!",
     "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D1.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D1.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png"
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
     ]
 }
       ]
