@@ -5,14 +5,24 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
+      "title": "ElytraRegi",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+      "fileBeh": "#",
+      "version": "1.0.1",
+      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
+      ]
+    },
+    {
       "title": "Mod Destacado 2",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
       "version": "1.0.0",
       "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
-      "screenshots": [],
-      "compatibleVersion": "1.21.0"
+      "screenshots": []
     },
     {
       "title": "Mod Destacado 3",
@@ -21,14 +31,14 @@
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
       "version": "1.0.0",
       "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
-      "screenshots": [],
-      "compatibleVersion": "1.21.0"
+      "screenshots": []
     }
   ],
   "sections": [
     {
       "name": "Mods",
       "items": [
+
         {
     "title": "Dynamic Lightning",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
@@ -43,6 +53,7 @@
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Dynamic Lightning3.png"
     ]
         },
+
         {
     "title": "Armas reales 3D",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Armasreales3D.png",
@@ -68,8 +79,7 @@
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld",
           "version": "1.0.0",
-          "screenshots": [],
-          "compatibleVersion": "1.21.0"
+          "screenshots": []
         }
       ]
     },
@@ -82,11 +92,9 @@
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack",
           "version": "1.0.0",
-          "screenshots": [],
-          "compatibleVersion": "1.21.0"
+          "screenshots": []
         }
       ]
     }
-  ],
-  "defaultCompatibleVersion": "1.21.0"
+  ]
 }
