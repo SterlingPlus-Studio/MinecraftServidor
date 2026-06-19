@@ -28,8 +28,8 @@
       "name": "Mods",
       "items": [
         {
-          "title": "Mod 1",
-          "description": "Describe aquí tu mod",
+          "title": "ElytraRegi",
+          "description": "Versión 1.0.1",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon"
         }
@@ -39,7 +39,7 @@
       "name": "Maps",
       "items": [
         {
-          "title": "Mapa 1",
+          "title": "ElytraRegi",
           "description": "Describe aquí tu mapa",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld"
