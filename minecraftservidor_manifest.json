@@ -6,21 +6,24 @@
   "featuredMods": [
     {
       "title": "ElytraRegi",
-      "subtitle": "Complemento recomendado con descarga directa",
+      "subtitle": "Versión 1.0.1",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon"
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+      "version": "1.0.1"
     },
     {
       "title": "Mod Destacado 2",
-      "subtitle": "Otro mod importante para Minecraft Bedrock",
+      "subtitle": "Versión 1.0.0",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2.mcaddon"
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2.mcaddon",
+      "version": "1.0.0"
     },
     {
       "title": "Mod Destacado 3",
-      "subtitle": "Contenido destacado con botón de descarga",
+      "subtitle": "Versión 1.0.0",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3.mcaddon"
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3.mcaddon",
+      "version": "1.0.0"
     }
   ],
   "sections": [
@@ -31,7 +34,8 @@
           "title": "ElytraRegi",
           "description": "Versión 1.0.1",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon"
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+          "version": "1.0.1"
         }
       ]
     },
@@ -42,7 +46,8 @@
           "title": "ElytraRegi",
           "description": "Describe aquí tu mapa",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld"
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld",
+          "version": "1.0.0"
         }
       ]
     },
@@ -53,7 +58,8 @@
           "title": "Textura 1",
           "description": "Describe aquí tu textura",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack"
+          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack",
+          "version": "1.0.0"
         }
       ]
     }
