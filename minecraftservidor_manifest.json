@@ -49,6 +49,19 @@
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
           ]
         }
+        {
+    "title": "Expansion (200+ Foods)",
+    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Food Expansion (200+ Foods)",
+    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Food Expansion (200+ Foods)",
+    "fileBeh": "#",
+    "version": "1.0.0",
+    "description": "Este complemento introduce más de 150 nuevos alimentos, 9 nuevos arbustos de bayas, 23 nuevos cultivos, 18 nuevas plantas y múltiples nuevos objetos que sueltan los bloques y las criaturas para darle más variedad y propósito a tu mundo de supervivencia. Ya sea que estés horneando galletas, preparando sushi o quemando accidentalmente tu filete, cada receta ofrece una combinación única de efectos de restauración del hambre y saciedad. Algunos alimentos permiten comer rápido, otros proporcionan mayor saciedad y otros son simplemente alternativas divertidas a lo que ya existe en el juego. Es una forma sencilla y equilibrada de hacer que cultivar, cocinar y explorar sean más gratificantes.",
+    "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Expansion (200+ Foods)3.png"
+    ]
+        }
       ]
     },
     {
