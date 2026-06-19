@@ -7,20 +7,31 @@
     {
       "title": "ElytraRegi",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-      "version": "1.0.1"
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+      "fileBeh": "#",
+      "version": "1.0.1",
+      "description": "Este mod añade increíbles mecánicas de vuelo. Incluye soporte para texturas de alta calidad y nuevas características en el mundo.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png"
+      ]
     },
     {
       "title": "Mod Destacado 2",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured2.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2.mcaddon",
-      "version": "1.0.0"
+      "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_res.mcpack",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod2_beh.mcpack",
+      "version": "1.0.0",
+      "description": "Mod completo que cuenta tanto con recursos visuales como con comportamientos personalizados.",
+      "screenshots": []
     },
     {
       "title": "Mod Destacado 3",
       "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/featured3.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3.mcaddon",
-      "version": "1.0.0"
+      "fileRes": "#",
+      "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod3_beh.mcpack",
+      "version": "1.0.0",
+      "description": "Este mod funciona exclusivamente mediante comportamientos. El botón de recursos se ocultará.",
+      "screenshots": []
     }
   ],
   "sections": [
@@ -29,10 +40,14 @@
       "items": [
         {
           "title": "ElytraRegi",
-          "description": "Versión 1.0.1",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
-          "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-          "version": "1.0.1"
+          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
+          "fileBeh": "#",
+          "version": "1.0.1",
+          "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
+          "screenshots": [
+            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
+          ]
         }
       ]
     },
@@ -40,11 +55,12 @@
       "name": "Maps",
       "items": [
         {
-          "title": "ElytraRegi",
-          "description": "Describe aquí tu mapa",
+          "title": "Mapa Aventura",
+          "description": "Un mapa lleno de desafíos increíbles. Describe aquí tu mapa con detalle.",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/map1.mcworld",
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "screenshots": []
         }
       ]
     },
@@ -53,10 +69,11 @@
       "items": [
         {
           "title": "Textura 1",
-          "description": "Describe aquí tu textura",
+          "description": "Cambia por completo los gráficos del juego con esta textura en alta resolución.",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.png",
           "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Texturas/texture1.mcpack",
-          "version": "1.0.0"
+          "version": "1.0.0",
+          "screenshots": []
         }
       ]
     }
