@@ -42,18 +42,6 @@
       "name": "Mods",
       "items": [
         {
-          "title": "ElytraRegi",
-          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
-          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-          "fileBeh": "#",
-          "version": "1.0.1",
-          "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
-          "screenshots": [
-            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ElytraRegi1.png"
-          ],
-          "compatibleVersion": "1.21.0"
-        },
-        {
     "title": "Armas reales 3D",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Armas reales 3D.png",
     "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
@@ -66,7 +54,7 @@
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Armas reales 3D2.png",
         "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Capturas/Armas reales 3D3.png"
     ]
-        }
+}
       ]
     },
     {
