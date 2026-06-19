@@ -6,7 +6,7 @@
   "featuredMods": [
     {
       "title": "Dynamic Lightning",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/DynamicLightning.png",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/DynamicLightning1.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
       "version": "3.5.0",
