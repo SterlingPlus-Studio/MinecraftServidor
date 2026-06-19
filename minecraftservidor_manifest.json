@@ -5,10 +5,10 @@
   "featuredIntervalMs": 4500,
   "featuredMods": [
     {
-      "title": "Mod Destacado 1",
+      "title": "ElytraRegi",
       "subtitle": "Complemento recomendado con descarga directa",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/banner1.png",
-      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/mod1.mcaddon"
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ElytraRegi.png",
+      "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon"
     },
     {
       "title": "Mod Destacado 2",
