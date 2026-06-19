@@ -6,7 +6,7 @@
   "featuredMods": [
     {
       "title": "Dynamic Lightning",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/DynamicLightning.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Resources_Packs.mcpack",
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/Dynamic_Light [V3.5.0] Beharviors_Packs.mcpack",
       "version": "3.5.0",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Armas reales 3D",
-      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D.png",
+      "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Armasreales3D.png",
       "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Resource_Pack.mcpack",
       "fileBeh": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/AG3Dv1.14-Behaviour_Pack.mcpack",
       "version": "1.14.0",
