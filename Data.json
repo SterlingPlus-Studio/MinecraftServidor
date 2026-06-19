@@ -83,6 +83,19 @@
       "name": "Maps",
       "items": [
         {
+    "title": "OneBlock",
+    "description": "Este es mi primer mapa, para ver cuánto apoyo recibe, básicamente un One Block que, como muchos ya sabrán, es un solo bloque que se regenera infinitamente, este mapa tiene 10 etapas de juego, que incluyen tanto biomas como áreas de juego e incluso las dimensiones del Nether y el End.\n\nEn el mapa comenzarás en 1 bloque de hierba, cuando rompas los primeros 4 bloques no te caerás, pero después sí, debes tener cuidado y también prestar atención a los mensajes que aparecerán en tu pantalla cada vez que hagas algo que incluya alguno de los complementos implementados.",
+    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/OneBlock.png",
+    "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/OneBlock.mcworld",
+    "version": "1.0",
+    "compatibleVersion": "1.16.0 a 1.21.0",
+    "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/OneBlock1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/OneBlock2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/OneBlock3.png"
+    ]
+        },
+        {
     "title": "ParkourMap",
     "description": "El mapa Parkour A contiene 20 niveles divertidos y emocionantes , ¡y tu objetivo es superarlos todos! Este mapa cuenta con temporizador ,   puntos de control y reinicios , ¡lo que lo hace aún más divertido! ¡Disfruta!\n\nEste desafío fácil y divertido incluye 20 cajas de parkour únicas, cada una de ellas una caja de 10x10 bloques repleta de saltos, obstáculos y sorpresas. Cada caja ofrece algo diferente para que la experiencia sea siempre novedosa y emocionante.",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ParkourMap.png",
