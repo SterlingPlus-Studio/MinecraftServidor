@@ -83,6 +83,19 @@
       "name": "Maps",
       "items": [
         {
+    "title": "ParkourMap",
+    "description": "El mapa Parkour A contiene 20 niveles divertidos y emocionantes , ¡y tu objetivo es superarlos todos! Este mapa cuenta con temporizador ,   puntos de control y reinicios , ¡lo que lo hace aún más divertido! ¡Disfruta!\n\nEste desafío fácil y divertido incluye 20 cajas de parkour únicas, cada una de ellas una caja de 10x10 bloques repleta de saltos, obstáculos y sorpresas. Cada caja ofrece algo diferente para que la experiencia sea siempre novedosa y emocionante.",
+    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/ParkourMap.png",
+    "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Maps/ParkourMap.mcworld",
+    "version": "1.0",
+    "compatibleVersion": "1.16.0 a 1.21.0",
+    "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ParkourMap1.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ParkourMap2.png",
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/ParkourMap3.png"
+    ]
+        },
+        {
     "title": "Skywars",
     "description": "un increíble mapa de SkyWars listo para que vivan batallas inolvidables con sus amigos. ⚔️🔥  \n\n👉 ¿Qué es SkyWars?  \nUn modo de juego clásico lleno de adrenalina donde comenzarás en islas flotantes, reunirás el mejor equipo y lucharás contra tus rivales... ¡hasta que consigas la Gran Victoria!  \n\n🎮 Características de este mapa:  \n14 mapas/arenas diferentes, inspirados en el legendario servidor The Hive 🐝\nMinijuegos adicionales incluidos: \n  ▸ Juegos del Hambre            \n            ▸ Arena PvP (FFA)            \n            ▸ Juegos de Arco            \n            ▸ Carrera de TNT            \n👀 Modo Espectador Mejorado  \n¡Puedes explorar el mapa cómodamente en modo espectador!  ",
     "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/SkywarsV9.5.png",
