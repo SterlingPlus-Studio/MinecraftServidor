@@ -64,17 +64,6 @@
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
           ]
-        },
-        {
-          "title": "ElytraRegi",
-          "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png",
-          "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.mcaddon",
-          "fileBeh": "#",
-          "version": "1.0.1",
-          "description": "Versión 1.0.1 - Explora nuevas mecánicas de vuelo con esta increíble expansión. Solo requiere el paquete de recursos.",
-          "screenshots": [
-            "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/ElytraRegi.png"
-          ]
         }
       ]
     },
