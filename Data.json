@@ -37,6 +37,18 @@
     {
       "name": "Mods",
       "items": [
+{
+    "title": "More Simple Structures",
+    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/MoreSimpleStructures.png",
+    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/[v4.8.0] More Simple Structures.mcaddon",
+    "fileBeh": "#",
+    "version": "4.8.0",
+    "compatibleVersion": "1.21.90 a 1.21.94",
+    "description": "Descubre nuevas estructuras que aparecen de forma natural, desde pequeñas ruinas hasta antiguas pirámides de la jungla, diseñadas para ser minimalistas sin perder la esencia del estilo original del juego.\n\n\nCon el objetivo de añadir más diversidad, inmersión y equilibrio, cada estructura tiene diferentes tasas de aparición para incentivar y recompensar la exploración. ¿Podrás encontrarlas todas?",
+    "screenshots": [
+        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/MoreSimpleStructures1.png"
+    ]
+        },
         {
           "title": "Dynamic Lightning",
           "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/Dynamic Lightning.png",
@@ -64,18 +76,6 @@
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D2.png",
             "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/Armasreales3D3.png"
           ]
-        },
-        {
-    "title": "More Simple Structures",
-    "image": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Iconos/MoreSimpleStructures.png",
-    "fileRes": "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Mods/[v4.8.0] More Simple Structures.mcaddon",
-    "fileBeh": "#",
-    "version": "4.8.0",
-    "compatibleVersion": "1.21.90 a 1.21.94",
-    "description": "Descubre nuevas estructuras que aparecen de forma natural, desde pequeñas ruinas hasta antiguas pirámides de la jungla, diseñadas para ser minimalistas sin perder la esencia del estilo original del juego.\n\n\nCon el objetivo de añadir más diversidad, inmersión y equilibrio, cada estructura tiene diferentes tasas de aparición para incentivar y recompensar la exploración. ¿Podrás encontrarlas todas?",
-    "screenshots": [
-        "https://raw.githubusercontent.com/SterlingPlus-Studio/MinecraftServidor/main/Capturas/MoreSimpleStructures1.png"
-    ]
         }
       ]
     },
